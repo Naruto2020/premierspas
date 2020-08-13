@@ -62,27 +62,27 @@ nav a:hover {
   border-bottom: 3px solid #760001;
 }
 
-.img1 {
+/*.img1 {
   border-radius: 8px;
   box-shadow: 2px 2px 0 grey;
-  margin-left: 15px;
+  margin-left: 20px;
   width: 200px;
   margin-top: 25px;
   position: absolute;
   right: 320px;
-}
+}*/
 header p {
   padding-top: 10px;
   padding-bottom: 0;
 }
 
-section .col {
+/*section .col {
   display: flex;
   position: relative;
-}
+}*/
 section div :nth-child(2) {
-  padding-left: 30px;
-  margin-right: 230px;
+  padding-left: 3px;
+  margin-right: 20px;
 }
 
 section h2,
